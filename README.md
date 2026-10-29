@@ -20,7 +20,7 @@
 ## 安装
 
 1. **准备 U 盘**：32GB 以内，格式化为 **FAT32**（Windows：右键 → 格式化；Mac：磁盘工具 → 抹掉 → MS-DOS (FAT)）。
-2. **复制文件**：从 (https://github.com/Fupeng751221/Touareg)下载 zip，解压后把**里面的全部内容**复制到 U 盘根目录。
+2. **复制文件**：从 [Releases](https://github.com/Fupeng751221/touareg/releases/latest) 下载 zip，解压后把**里面的全部内容**复制到 U 盘根目录。
 3. **选择功能**（可选）：双击 U 盘里的 **「改装设置（Windows）.exe」** 或 **「改装设置（Mac）.command」**，在打开的网页里选每个功能"安装 / 卸载 / 不处理"、选信息框项目，点「保存到 U 盘」。全部默认安装可以跳过（Mac 用户建议运行一次，清理隐藏文件）。
 
    ![改装设置程序](Docs/Img/configurator.png)
