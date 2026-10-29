@@ -1,6 +1,6 @@
 # 途锐中国版 CarPlay 改装合集：全屏 + 无线 + Android Auto + 导航上 HUD + CarPlay 地图上仪表 + 仪表信息框
 
-让中国版大众途锐（MH2p_CN_VWG36_P2876车机）用一个 U 盘一次刷入下面几项改装。最新版本见 [Releases](https://github.com/Fupeng751221/touareg/releases/latest)。
+让中国版大众途锐（MH2p_CN_VWG36_P2876 车机）用一个 U 盘一次刷入下面几项改装。最新版本见 [Releases](https://github.com/Fupeng751221/touareg/releases/latest)。
 
 - **全屏 CarPlay**：去掉黑边，铺满中控屏
 - **无线 CarPlay**、**Android Auto**：开启原厂未激活的功能（LawPaul 作品）
